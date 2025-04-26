@@ -52,5 +52,8 @@
 4. Add your Vuforia license key in the ARCamera object.
 5. Build and deploy to an **Android** device (ARCore supported).
 
+## APK link
+https://drive.google.com/file/d/1OXZ9adn-vsilE4PCAIGLc20jWnQP10vp/view?usp=sharing
+
 ```bash
 git clone https://github.com/your-username/LexAR.git
